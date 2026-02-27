@@ -1,4 +1,4 @@
-* Discord Bot
+# Discord Bot
 
 - Basic bot made with [discord.py](https://discordpy.readthedocs.io/en/stable/) that manages a simple local JSON "database" that keeps track of shows, their status (planned/watching/watched), and their comments. 
 - Also lets users play Tic Tac Toe and Rock Paper Scissors against one another, flip a coin to see the result, and has a random chance of "shmoogling" them (literally just replied with the word "shmoogle").
